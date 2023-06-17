@@ -1,0 +1,17 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.contenedor a {
+font-size: 55px;
+}
+
+.shopify {
+    color: mediumseagreen;
+}
+
+.wordpress{
+    color:steelblue;
+}
